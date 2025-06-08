@@ -11,7 +11,7 @@ The challenges include:
 2.  **Boda Boda Ride Fare Estimator**: Estimates the fare for a boda boda ride based on distance traveled.
 3.  **Mobile Money Transaction Fee Estimator**: Simulates transaction fee calculations for mobile money transfers, accounting for minimum and maximum fee caps.
 
-## 📁 File Structure
+## File Structure
 
 The project is organized with three folders namely:
 
@@ -33,7 +33,7 @@ You need code editor like VS Code and a modern web browser that can execute Java
 
 1.  Fork and Clone the repository to your local machine:
     ```sh
-    git clone git@github.com:your-username/Code-Challenge-1.git (git@github.com:your-username/Code-Challenge-1.git)
+    git clone git@github.com:your-username/Code-Challenge-1.git
     ```
 2.  Navigate to the project directory:
     ```sh
@@ -44,7 +44,7 @@ You need code editor like VS Code and a modern web browser that can execute Java
     code .
     ```
 
-## 💻 Usage
+## Usage
 
 The recommended way to use this project is through a web browser.
 
@@ -53,11 +53,11 @@ The recommended way to use this project is through a web browser.
 3.  A prompt will appear asking for input (`Unatuma Ngapi? (KES):`).
 4.  After you enter an amount, the results will be displayed in the browser's developer console.(Press `F12` or `Ctrl+Shift+I` to open it)
 
-## ✍️ Author
+##  Author
 
 * **Daniel Muhia**
 
-## 📜 License
+##  License
 
 This project is licensed under the MIT License.
 
