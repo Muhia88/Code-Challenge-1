@@ -19,15 +19,19 @@ The project is organized with three folders namely:
 2. **chaiCalculator**: Contains chai.js.
 3. **mobileMoneyEstimator**: Contains fees.js.
 
+
 # Project setup
 
-# Getting started
+## Getting started
 
 Follow the steps below to get the project running on your local machine.
 
 ### Prerequisites
 
-You need code editor like VS Code and a modern web browser that can execute JavaScript (e.g. Google Chrome)
+- Code editor like VS Code 
+- A modern web browser that can execute JavaScript (e.g. Google Chrome)
+- [Node.js](https://nodejs.org/) (v10+)
+- `npm` (bundled with Node.js)
 
 ### Installation
 
@@ -44,9 +48,28 @@ You need code editor like VS Code and a modern web browser that can execute Java
     code .
     ```
 
+
 ## Usage
 
-The recommended way to use this project is through a web browser.
+### Method 1
+Using A code editor(VS Code in this instance)
+
+1. Open Terminal in VS Code.
+2. Install  dependencies
+    ```sh
+    npm install
+    ```
+3. In the case of Chai Calculator:
+    In the terminal run:
+       ```sh
+    node chaiCalculator/chai.js
+    ``` 
+This will enable the program to run.
+Now test with the rest of the programs.
+
+
+### Method 2
+Using a web browser.
 
 1.  Open any folder say chaiCalculator and open `fee.js`. Create a html file e.g `fee.html` and write simple html file linking `fee.js` to it. Open file in your browser.
 2.  On loading the website, you will be prompted to enter `number of cups` in the instance of `fee.html`.
