@@ -61,7 +61,7 @@ Using A code editor(VS Code in this instance)
     ```
 3. In the case of Chai Calculator:
     In the terminal run:
-       ```sh
+    ```sh
     node chaiCalculator/chai.js
     ``` 
 This will enable the program to run.
