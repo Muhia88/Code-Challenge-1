@@ -1,0 +1,23 @@
+{
+  "name": "code-challenge-1",
+  "version": "1.0.0",
+  "description": "It contains solutions of code challenge",
+  "homepage": "https://github.com/Muhia88/Code-Challenge-1#readme",
+  "bugs": {
+    "url": "https://github.com/Muhia88/Code-Challenge-1/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Muhia88/Code-Challenge-1.git"
+  },
+  "license": "ISC",
+  "author": "Daniel Muhia",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}

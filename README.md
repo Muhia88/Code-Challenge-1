@@ -19,7 +19,7 @@ The project is organized with three folders namely:
 2. **chaiCalculator**: Contains chai.js.
 3. **mobileMoneyEstimator**: Contains fees.js.
 
-## Project setup
+# Project setup
 
 # Getting started
 

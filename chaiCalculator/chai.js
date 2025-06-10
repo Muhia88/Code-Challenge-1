@@ -1,3 +1,6 @@
+// Import the 'prompt-sync' module to enable synchronous user input from the terminal
+const prompt = require("prompt-sync")();
+
 //calculateChaiIngredients function
 function calculateChaiIngredients(){
     //prompts user

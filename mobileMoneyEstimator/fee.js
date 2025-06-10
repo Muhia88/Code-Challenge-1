@@ -1,3 +1,6 @@
+// Import the 'prompt-sync' module to enable synchronous user input from the terminal
+const prompt = require("prompt-sync")();
+
 //estimateTransactionFee function
 function estimateTransactionFee(){
     //prompts the user
